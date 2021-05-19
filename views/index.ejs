@@ -9,7 +9,7 @@
   </head>
   <body>
     <section class="todo-app">
-      <form action="/" method="POST" enctype="application/json">
+      <form action="/<%= name %>" method="POST" enctype="application/json">
         <div class="label"><h3>TODO APP LIST</h3></div>
         <div class="input"><input name="name" type="text" id="iput" /></div>
         <div class="butt">
@@ -21,7 +21,7 @@
     <section class="lists">
       <ol>
         <% for(item of itemsList){ %>
-        <li><%= item %></li>
+        <li><%= item.name %></li>
         <% } %>
       </ol>
     </section>
