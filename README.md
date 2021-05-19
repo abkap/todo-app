@@ -1,3 +1,3 @@
 # todo-app
 
-**todo app with nodejs and express **
+**todo app with nodejs and express**
