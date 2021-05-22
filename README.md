@@ -1,6 +1,6 @@
 # todo-app
 
-**todo app with nodejs and express. Your list will be saved on mongodb server running locally!**
+**todo app with nodejs and express. Your list will be saved on mongodb server running locally!** \
 To install packages run `npm install` \
 if that doesn't work remove **node modules** folder and re run the `npm install` \
 
