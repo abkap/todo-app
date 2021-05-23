@@ -1,8 +1,7 @@
 # todo-app
 
-**todo app with nodejs and express. Your list will be saved on mongodb server running locally!**  
 To install packages run `npm install`  
-if that doesn't work remove **node modules** folder and re run the `npm install`
+if that doesn't work remove **node_modules** folder and re run the `npm install`
 
 ## Dealing with database
 
@@ -12,3 +11,5 @@ _make sure that mongodb is active_
 ## To run the code
 
 To run `npm start`
+
+_This stores your item in the database running locally._
