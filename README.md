@@ -13,4 +13,4 @@ _make sure that mongodb is active_
 To run `npm start`
 
 _This stores your item in the database running locally._  
-**open `localhost:3000/` after that type any word or characters `localhost:3000/myitems`. Add your items there **
+**open `localhost:3000/` after that type any word or characters `localhost:3000/myitems`. Add your items there**
